@@ -7,7 +7,7 @@
     "P27011": [
         {
             "@id": "_:n2",
-            "label": "Event duration",
+            "label": "Dependent variable (event duration)",
             "@type": [
                 "https://sandbox.orkg.org/class/C1006"
             ],

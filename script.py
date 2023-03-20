@@ -19,7 +19,7 @@ orkg.templates.materialize_template('R12002')
 tp = orkg.templates
 
 tp.students_ttest('Statistical hypothesis test', 
-  has_dependent_variable=tp.study_design_dependent_variable('Event duration',
+  has_dependent_variable=tp.study_design_dependent_variable('Dependent variable (event duration)',
     # atmospheric aerosolised particle formation event
     has_object_of_interest='http://purl.obolibrary.org/obo/ENVO_01001359',
     # duration
